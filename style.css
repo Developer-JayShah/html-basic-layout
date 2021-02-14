@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 80%;
+    background-color: #FFCDD2;
+    margin: auto;
+    border: 1px solid;
+    padding-top: 25px;
+}
+.ch-name h1{
+    font-size: 100px;
+    text-align: center;
+     color: #282724;
+     border-top: 5px solid;
+     width: 80%;
+     margin: auto;
+}
+
+.ch-name h4{
+    font-family: 'Aleo', serif;
+    text-align: center;
+    margin-top: -50px;
+    border-bottom: 3px solid;
+    margin: auto;
+    width: 80%;
+    padding-bottom: 15px;
+    letter-spacing: 5px;
+}
+.highlight{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 35px;
+    letter-spacing: 1px;
+}
+.topic{
+    font-family: 'Aleo', serif;
+    font-size: 15px;
+    letter-spacing: 5px;
+    text-align: center;
+    padding-top: 15px;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    padding-bottom: 15px;
+    width: 80%;
+    margin: auto;
+}
+.para_row{
+    width: 80%;
+    padding-top: 15px;
+    margin: auto;
+    height: 1200px;
+}
+.para_row .column{
+    width: 26%;
+    float: left;
+    margin: 23px;
+}
+
+.column p{
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: justify;
+}
+.bg{
+    background-color: white;
+    padding: 30px;
+}
+.column img{
+    width: 250px;
+}
+.column h3{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Aleo', serif;
+    font-weight: 500;
+    padding-top: 5px;
+}
+.imag img{
+    width: 550px;
+    /* height: 400px; */
+    margin-top: -50%;
+}
